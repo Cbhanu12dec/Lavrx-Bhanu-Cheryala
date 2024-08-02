@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lavrx-Bhanu-Cheryala/static/css/main.6f33c28c.css",
+    "main.js": "/Lavrx-Bhanu-Cheryala/static/js/main.8ed5af9b.js",
+    "index.html": "/Lavrx-Bhanu-Cheryala/index.html",
+    "main.6f33c28c.css.map": "/Lavrx-Bhanu-Cheryala/static/css/main.6f33c28c.css.map",
+    "main.8ed5af9b.js.map": "/Lavrx-Bhanu-Cheryala/static/js/main.8ed5af9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f33c28c.css",
+    "static/js/main.8ed5af9b.js"
+  ]
+}
