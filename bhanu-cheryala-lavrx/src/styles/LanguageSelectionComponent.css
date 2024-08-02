@@ -1,0 +1,20 @@
+.time-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    max-width: fit-content;
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+    gap:10
+}
+
+.time-zone-selector{
+    min-height: 40px;
+    width: 250px;
+}
+
+.internationalization-time{
+    margin: 10px 0;
+}
